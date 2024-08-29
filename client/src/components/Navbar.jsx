@@ -18,7 +18,7 @@ function Navbar() {
       <div className="flex flex-row mx-auto px-[40px] py-[20px] justify-between items-center mt-[0px] bg-black ">
         <div className="flex flex-row items-center flex-start font-bold text-2xl text-purple-400">
           <img src="logo.png" className="w-[80px] h-[80px] filter-invert"/>
-          <a href="/">Adbase</a>
+          <a href="/">Merlin-Ads</a>
         </div>
         <div className="flex items-center space-x-8">
           <h1 className="font-medium text-xxl text-white">
@@ -28,7 +28,7 @@ function Navbar() {
             <a href="/landing">Campaigns</a>
           </h1>
           <div className="text-white">
-            <BlackCreateWalletButton />
+           Wallet
           </div>
         </div>
       </div>

@@ -12,6 +12,8 @@
   "dependencies": {
     "@coinbase/wallet-sdk": "^4.0.3",
     "@nextui-org/react": "^2.4.2",
+    "@particle-network/btc-connectkit": "^1.0.0-alpha.26",
+    "@particle-network/chains": "^1.6.7",
     "@pinata/sdk": "^2.1.0",
     "@preact/signals-react": "^2.2.0",
     "@pwrjs/core": "^0.5.4",

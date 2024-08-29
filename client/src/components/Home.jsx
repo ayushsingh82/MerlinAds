@@ -45,7 +45,14 @@ const TypewriterEffectSmoothDemo = () => {
       text: "with",
     },
     {
-      text: "Adbase.",
+      text: "Merlin-Ads.",
+      className: "text-purple-500 dark:text-purple-500",
+    },
+    {
+      text: "powered by",
+    },
+    {
+      text: "PWR & Particle-Network",
       className: "text-purple-500 dark:text-purple-500",
     },
   ];
