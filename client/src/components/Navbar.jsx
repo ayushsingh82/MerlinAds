@@ -21,6 +21,9 @@ function Navbar() {
           <a href="/">Merlin-Ads</a>
         </div>
         <div className="flex items-center space-x-8">
+        <h1 className="font-medium text-xxl text-white">
+        <a href="/pwr">PWR</a>
+      </h1>
           <h1 className="font-medium text-xxl text-white">
             <a href="/dashboard">Dev Dashboard</a>
           </h1>

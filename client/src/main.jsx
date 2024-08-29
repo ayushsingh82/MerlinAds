@@ -13,6 +13,7 @@ import {
   BrowserRouter,
 } from "react-router-dom";
 import { Route } from "react-router-dom";
+import PWRPage from "./components/PWRPage.jsx";
 import Landing from "./components/Landing.jsx";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import Dashboard from "./components/Dashboard.jsx";
@@ -46,6 +47,7 @@ const router = createBrowserRouter(
     
       <Route path="/landing" element={<Landing />} />
       <Route path="/dashboard" element={<Dashboard />} />
+      <Route path="/pwr" element={<PWRPage />} />
     </Route>
   )
 );
