@@ -23,7 +23,7 @@ export function VortexDemo() {
           </button>
           <button className="px-4 py-2  font-medium border-2 rounded-lg py-[10px] bg-black text-white">
             {" "}
-            <a href="https://abhays-organization-1.gitbook.io/adbase-dev-docs/">
+            <a href="https://ayushsinghmi711s-organization.gitbook.io/merlin-ads-dev-docs">
               Dev Docs
             </a>
           </button>
